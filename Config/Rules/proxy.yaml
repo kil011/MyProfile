@@ -86,6 +86,7 @@ payload:
 - IP-CIDR,208.54.5.195/32,no-resolve
 
 # IP Detection
+- DOMAIN-SUFFIX,ippure.com
 - DOMAIN-SUFFIX,2ip.io
 - DOMAIN-SUFFIX,abstractapi.com
 - DOMAIN-SUFFIX,db-ip.com
