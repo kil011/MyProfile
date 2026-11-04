@@ -1,0 +1,41 @@
+payload:
+# Mylist 
+- DOMAIN-KEYWORD,amazon
+- DOMAIN-KEYWORD,walmart
+- DOMAIN-KEYWORD,target
+- DOMAIN-KEYWORD,homedepot
+- DOMAIN-KEYWORD,thd
+- DOMAIN-KEYWORD,lowes
+- DOMAIN-KEYWORD,tractorsupply
+- DOMAIN-KEYWORD,costco
+- DOMAIN-KEYWORD,acehardware
+- DOMAIN-KEYWORD,homehardware
+- DOMAIN-KEYWORD,canadiantire
+- DOMAIN-KEYWORD,rona
+- DOMAIN-KEYWORD,menard
+- DOMAIN-KEYWORD,samsclub
+- DOMAIN-KEYWORD,bjs
+- DOMAIN-KEYWORD,tjx
+- DOMAIN-KEYWORD,burlington
+- DOMAIN-KEYWORD,dollargeneral
+- DOMAIN-KEYWORD,aldi
+- DOMAIN-KEYWORD,gamestop
+- DOMAIN-KEYWORD,staples
+- DOMAIN-KEYWORD,bestbuy
+- DOMAIN-KEYWORD,officedepot
+- DOMAIN-KEYWORD,kroger
+
+# Gemini Notebook
+- DOMAIN-SUFFIX,notebook.google
+- DOMAIN-SUFFIX,notebook.google.com
+- DOMAIN-SUFFIX,notebooklm.google
+- DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
+- DOMAIN-SUFFIX,labs-tailwind-pa.googleapis.com
+- DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
+
+# Google Fitbit
+- DOMAIN-SUFFIX,fitbit.com
+- DOMAIN-SUFFIX,fitbit.google.com
+- DOMAIN-SUFFIX,fitbit-pa.googleapis.com
+- DOMAIN-SUFFIX,fitbitvestibuleshim-pa.googleapis.com
+- DOMAIN-SUFFIX,fitbitidentitylink-pa.googleapis.com
