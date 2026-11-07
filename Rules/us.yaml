@@ -1,5 +1,5 @@
 payload:
-# Mylist 
+# My List
 - DOMAIN-KEYWORD,amazon
 - DOMAIN-KEYWORD,walmart
 - DOMAIN-KEYWORD,target
@@ -25,7 +25,7 @@ payload:
 - DOMAIN-KEYWORD,officedepot
 - DOMAIN-KEYWORD,kroger
 
-# Gemini Notebook
+# NotebookLM
 - DOMAIN-SUFFIX,notebook.google
 - DOMAIN-SUFFIX,notebook.google.com
 - DOMAIN-SUFFIX,notebooklm.google
@@ -34,7 +34,7 @@ payload:
 - DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
 - DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
 
-# AI General Rules
+# AI General
 - DOMAIN-SUFFIX,api.statsig.com
 - DOMAIN-SUFFIX,static.cloudflareinsights.com
 - DOMAIN-SUFFIX,algolia.net
@@ -60,7 +60,7 @@ payload:
 - DOMAIN-SUFFIX,sift.com
 - DOMAIN-SUFFIX,siftscience.com
 
-# Anthropic / Claude
+# Claude
 - DOMAIN-SUFFIX,ant.dev
 - DOMAIN-SUFFIX,anthropic.com
 - DOMAIN-SUFFIX,anthropic.team

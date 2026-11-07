@@ -1,5 +1,5 @@
 payload:
-# My list
+# My List
 - DOMAIN-SUFFIX,usps.com
 - DOMAIN-SUFFIX,dhl.com
 - DOMAIN-SUFFIX,5idhl.com
@@ -80,7 +80,7 @@ payload:
 - DOMAIN-SUFFIX,chatway.app
 - DOMAIN-SUFFIX,speedtest.net
 
-# IP Detection
+# IP Check
 - DOMAIN-SUFFIX,ippure.com
 - DOMAIN-SUFFIX,2ip.io
 - DOMAIN-SUFFIX,abstractapi.com
@@ -151,7 +151,7 @@ payload:
 - DOMAIN,checkip.amazonaws.com
 - DOMAIN,ip.skk.moe
 
-# AI General Rules
+# AI General
 - DOMAIN-SUFFIX,api.statsig.com
 - DOMAIN-SUFFIX,static.cloudflareinsights.com
 - DOMAIN-SUFFIX,algolia.net
@@ -177,7 +177,7 @@ payload:
 - DOMAIN-SUFFIX,sift.com
 - DOMAIN-SUFFIX,siftscience.com
 
-# OpenAI / ChatGPT
+# OpenAI
 - DOMAIN-SUFFIX,chat.com
 - DOMAIN-SUFFIX,chatgpt.com
 - DOMAIN-SUFFIX,chatgpt.site
@@ -198,7 +198,7 @@ payload:
 - DOMAIN-SUFFIX,host.livekit.cloud
 - DOMAIN-SUFFIX,turn.livekit.cloud
 
-# Anthropic / Claude
+# Claude
 - DOMAIN-SUFFIX,ant.dev
 - DOMAIN-SUFFIX,anthropic.com
 - DOMAIN-SUFFIX,anthropic.team
@@ -219,7 +219,7 @@ payload:
 - DOMAIN-SUFFIX,claudeusercontent.com
 - DOMAIN,servd-anthropic-website.b-cdn.net
 
-# Meta / Muse
+# Meta AI
 - DOMAIN-SUFFIX,muse.ai
 - DOMAIN-SUFFIX,museai.com
 - DOMAIN-SUFFIX,meta.ai
@@ -303,7 +303,7 @@ payload:
 - DOMAIN-SUFFIX,ttapis.com
 - DOMAIN-SUFFIX,ttlivecdn.com
 
-# Top Blocked Sites
+# Blocked
 - DOMAIN-SUFFIX,archive.org
 - DOMAIN-SUFFIX,android.com
 - DOMAIN-SUFFIX,appspot.com
@@ -353,7 +353,7 @@ payload:
 - DOMAIN-SUFFIX,oculus.com
 - DOMAIN-SUFFIX,friendfeed.com
 
-# Github
+# GitHub
 - DOMAIN-SUFFIX,github.com
 - DOMAIN-SUFFIX,github.io
 - DOMAIN-SUFFIX,githubapp.com
@@ -407,7 +407,7 @@ payload:
 - DOMAIN-SUFFIX,telegram.org
 - DOMAIN-SUFFIX,telesco.pe
 
-# Whatsapp
+# WhatsApp
 - DOMAIN-SUFFIX,whatsapp.com
 - DOMAIN-SUFFIX,whatsapp.net
 - DOMAIN-SUFFIX,wa.me
