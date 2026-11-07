@@ -14,7 +14,6 @@ payload:
 - DOMAIN-SUFFIX,gitee.com
 - DOMAIN-SUFFIX,trustutn.org
 - DOMAIN-SUFFIX,263.net
-- DOMAIN-SUFFIX,protocol-mail
 - DOMAIN-SUFFIX,bzzgoup.com
 - DOMAIN-SUFFIX,kingsoft-office-service.com
 - IP-CIDR,58.213.23.0/21,no-resolve
@@ -56,7 +55,6 @@ payload:
 - IP-CIDR6,fc00::/7,no-resolve
 - IP-CIDR6,fe80::/10,no-resolve
 - IP-CIDR6,ff00::/8,no-resolve
-- GEOIP,lan
 
 #常用
 - DOMAIN-SUFFIX,115.com
@@ -72,7 +70,6 @@ payload:
 - DOMAIN-SUFFIX,51jobcdn.com
 - DOMAIN-SUFFIX,56.com
 - DOMAIN-SUFFIX,8686c.com
-- DOMAIN-SUFFIX,abercrombie.com
 - DOMAIN-SUFFIX,acfun.tv
 - DOMAIN-SUFFIX,air-matters.com
 - DOMAIN-SUFFIX,air-matters.io
@@ -111,7 +108,6 @@ payload:
 - DOMAIN-SUFFIX,dangdang.com
 - DOMAIN-SUFFIX,dfcfw.com
 - DOMAIN-SUFFIX,dianping.com
-- DOMAIN-SUFFIX,dilidili.wang
 - DOMAIN-SUFFIX,douban.com
 - DOMAIN-SUFFIX,doubanio.com
 - DOMAIN-SUFFIX,dpfile.com
@@ -141,7 +137,6 @@ payload:
 - DOMAIN-SUFFIX,gzlzfm.com
 - DOMAIN-SUFFIX,haibian.com
 - DOMAIN-SUFFIX,haosou.com
-- DOMAIN-SUFFIX,hollisterco.com
 - DOMAIN-SUFFIX,hongxiu.com
 - DOMAIN-SUFFIX,huajiao.com
 - DOMAIN-SUFFIX,hupu.com
@@ -149,7 +144,6 @@ payload:
 - DOMAIN-SUFFIX,huya.com
 - DOMAIN-SUFFIX,ifeng.com
 - DOMAIN-SUFFIX,ifengimg.com
-- DOMAIN-SUFFIX,images-amazon.com
 - DOMAIN-SUFFIX,infzm.com
 - DOMAIN-SUFFIX,ipip.net
 - DOMAIN-SUFFIX,it168.com
@@ -158,7 +152,6 @@ payload:
 - DOMAIN-SUFFIX,jianshu.com
 - DOMAIN-SUFFIX,jianshu.io
 - DOMAIN-SUFFIX,jianshuapi.com
-- DOMAIN-SUFFIX,jiathis.com
 - DOMAIN-SUFFIX,jmstatic.com
 - DOMAIN-SUFFIX,jumei.com
 - DOMAIN-SUFFIX,kaola.com
@@ -187,7 +180,6 @@ payload:
 - DOMAIN-SUFFIX,meizu.com
 - DOMAIN-SUFFIX,migucloud.com
 - DOMAIN-SUFFIX,miguvideo.com
-- DOMAIN-SUFFIX,mobike.com
 - DOMAIN-SUFFIX,mogu.com
 - DOMAIN-SUFFIX,mogucdn.com
 - DOMAIN-SUFFIX,mogujie.com
@@ -201,7 +193,6 @@ payload:
 - DOMAIN-SUFFIX,onedns.net
 - DOMAIN-SUFFIX,oneplus.com
 - DOMAIN-SUFFIX,onlinedown.net
-- DOMAIN-SUFFIX,oracle.com
 - DOMAIN-SUFFIX,oschina.net
 - DOMAIN-SUFFIX,ourdvs.com
 - DOMAIN-SUFFIX,polyv.net
@@ -219,7 +210,6 @@ payload:
 - DOMAIN-SUFFIX,qiniucdn.com
 - DOMAIN-SUFFIX,qiniudn.com
 - DOMAIN-SUFFIX,qiushibaike.com
-- DOMAIN-SUFFIX,quanmin.tv
 - DOMAIN-SUFFIX,qunar.com
 - DOMAIN-SUFFIX,qunarzz.com
 - DOMAIN-SUFFIX,realme.com
@@ -230,14 +220,11 @@ payload:
 - DOMAIN-SUFFIX,segmentfault.com
 - DOMAIN-SUFFIX,sf-express.com
 - DOMAIN-SUFFIX,shumilou.net
-- DOMAIN-SUFFIX,simplecd.me
 - DOMAIN-SUFFIX,smzdm.com
 - DOMAIN-SUFFIX,snwx.com
 - DOMAIN-SUFFIX,soufunimg.com
 - DOMAIN-SUFFIX,sspai.com
-- DOMAIN-SUFFIX,startssl.com
 - DOMAIN-SUFFIX,suning.com
-- DOMAIN-SUFFIX,synology.com
 - DOMAIN-SUFFIX,taihe.com
 - DOMAIN-SUFFIX,th-sjy.com
 - DOMAIN-SUFFIX,tianqi.com
@@ -248,7 +235,6 @@ payload:
 - DOMAIN-SUFFIX,tiexue.net
 - DOMAIN-SUFFIX,tmiaoo.com
 - DOMAIN-SUFFIX,trip.com
-- DOMAIN-SUFFIX,ttmeiju.com
 - DOMAIN-SUFFIX,tudou.com
 - DOMAIN-SUFFIX,tuniu.com
 - DOMAIN-SUFFIX,tuniucdn.com
@@ -258,7 +244,6 @@ payload:
 - DOMAIN-SUFFIX,videocc.net
 - DOMAIN-SUFFIX,vivo.com
 - DOMAIN-SUFFIX,wandoujia.com
-- DOMAIN-SUFFIX,weather.com
 - DOMAIN-SUFFIX,weico.cc
 - DOMAIN-SUFFIX,weidian.com
 - DOMAIN-SUFFIX,weiphone.com
@@ -271,7 +256,6 @@ payload:
 - DOMAIN-SUFFIX,xiaohongshu.com
 - DOMAIN-SUFFIX,xiaojukeji.com
 - DOMAIN-SUFFIX,xinhuanet.com
-- DOMAIN-SUFFIX,xip.io
 - DOMAIN-SUFFIX,xitek.com
 - DOMAIN-SUFFIX,xiumi.us
 - DOMAIN-SUFFIX,xslb.net
@@ -297,7 +281,6 @@ payload:
 - DOMAIN-SUFFIX,zhongsou.com
 - DOMAIN-SUFFIX,zhuihd.com
 - DOMAIN-SUFFIX,chinamobile.com
-- DOMAIN-SUFFIX,chinaunicom
 - DOMAIN-SUFFIX,chinatelecom.com
 - DOMAIN-SUFFIX,cmcc.net
 - DOMAIN-SUFFIX,telecomcn.com
@@ -399,7 +382,6 @@ payload:
 - DOMAIN-SUFFIX,yunjiasu-cdn.net
 
 # Bilibili
-- DOMAIN,apiintl.biliapi.net
 - DOMAIN,upos-hz-mirrorakam.akamaized.net
 - DOMAIN-SUFFIX,acg.tv
 - DOMAIN-SUFFIX,acgvideo.com
@@ -465,12 +447,6 @@ payload:
 - DOMAIN-SUFFIX,livechina.com
 
 # ChinaOneKeyLogin
-- DOMAIN,config.cmpassport.com
-- DOMAIN,enrichgw.10010.com
-- DOMAIN,log.cmpassport.com
-- DOMAIN,log1.cmpassport.com
-- DOMAIN,nishub1.10010.com
-- DOMAIN,ye.dun.163yun.com
 - DOMAIN-SUFFIX,cmpassport.com
 - DOMAIN-SUFFIX,id6.me
 - DOMAIN-SUFFIX,mob.com
@@ -643,8 +619,6 @@ payload:
 - DOMAIN,st.dl.pinyuncloud.com
 - DOMAIN,xz.pphimalayanrt.com
 - DOMAIN,steampipe.steamcontent.tnkjmec.com
-- DOMAIN,steampowered.com.8686c.com
-- DOMAIN,steamstatic.com.8686c.com
 
 # Tencent
 - DOMAIN-SUFFIX,foxmail.com
@@ -665,7 +639,6 @@ payload:
 - DOMAIN-SUFFIX,weiyun.com
 - DOMAIN-SUFFIX,xy-asia.com
 - DOMAIN-SUFFIX,iot-tencent.com
-- DOMAIN-SUFFIX,lbs.gtimg.com
 - DOMAIN-SUFFIX,servicewechat.com
 - DOMAIN-SUFFIX,tenpay.com
 - DOMAIN-SUFFIX,wechat.com
@@ -675,7 +648,6 @@ payload:
 - DOMAIN-SUFFIX,weixin.com
 - DOMAIN-SUFFIX,weixinbridge.com
 - DOMAIN-SUFFIX,weixinsxy.com
-- DOMAIN-SUFFIX,wx.gtimg.com
 - DOMAIN-SUFFIX,wxwork.com
 
 # Vip
@@ -739,5 +711,4 @@ payload:
 - IP-CIDR,192.35.50.0/24,no-resolve
 - IP-CIDR,198.183.17.0/24,no-resolve
 - IP-CIDR,205.180.175.0/24,no-resolve
-- GEOIP,apple
 
