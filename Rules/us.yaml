@@ -40,37 +40,32 @@ payload:
 - DOMAIN-SUFFIX,fitbitvestibuleshim-pa.googleapis.com
 - DOMAIN-SUFFIX,fitbitidentitylink-pa.googleapis.com
 
-# Claude
+# Anthropic / Claude
 - DOMAIN-KEYWORD,anthropic
 - DOMAIN-KEYWORD,claude
-- DOMAIN-SUFFIX,anthropic.com
-- DOMAIN-SUFFIX,claude.ai
-- DOMAIN-SUFFIX,claude.com
-- DOMAIN-SUFFIX,claude.app
-- DOMAIN-SUFFIX,claude.media
-- DOMAIN-SUFFIX,claudestatic.com
-- DOMAIN-SUFFIX,claudeusercontent.com
-- DOMAIN-SUFFIX,claudemcpcontent.com
 - DOMAIN-SUFFIX,stripe.network
 - DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
 - DOMAIN-SUFFIX,siftscience.com
+- DOMAIN-SUFFIX,sift.com
 - DOMAIN-SUFFIX,sentry.io
 
-payload:
-  - DOMAIN-KEYWORD,openai
-  - DOMAIN-KEYWORD,chatgpt
-  - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,oaiusercontent.com
-  - DOMAIN-SUFFIX,oaistatsig.com
-  - DOMAIN-SUFFIX,sora.com
-  - DOMAIN-SUFFIX,ai.com
-  - DOMAIN-SUFFIX,chat.com
-  - DOMAIN-SUFFIX,challenges.cloudflare.com
-  - DOMAIN-SUFFIX,arkoselabs.com
-  - DOMAIN-SUFFIX,livekit.cloud
-  - DOMAIN-SUFFIX,statsigapi.net
-  - DOMAIN-SUFFIX,featuregates.org
-  - DOMAIN-SUFFIX,workos.com
-  - DOMAIN-SUFFIX,intercom.io
-  - DOMAIN-SUFFIX,intercomcdn.com
-  - DOMAIN-SUFFIX,stripe.com
+
+# OpenAI / ChatGPT
+- DOMAIN-KEYWORD,openai
+- DOMAIN-KEYWORD,chatgpt
+- DOMAIN-SUFFIX,oaistatic.com
+- DOMAIN-SUFFIX,oaiusercontent.com
+- DOMAIN-SUFFIX,oaistatsig.com
+- DOMAIN-SUFFIX,sora.com
+- DOMAIN-SUFFIX,ai.com
+- DOMAIN-SUFFIX,chat.com
+- DOMAIN,challenges.cloudflare.com
+- DOMAIN-SUFFIX,arkoselabs.com
+- DOMAIN-SUFFIX,livekit.cloud
+- DOMAIN-SUFFIX,statsigapi.net
+- DOMAIN-SUFFIX,featuregates.org
+- DOMAIN-SUFFIX,workos.com
+- DOMAIN-SUFFIX,intercom.io
+- DOMAIN-SUFFIX,intercomcdn.com
+- DOMAIN-SUFFIX,stripe.com
+
