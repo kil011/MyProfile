@@ -71,7 +71,6 @@ payload:
 - DOMAIN-SUFFIX,arkoselabs.com
 - DOMAIN-SUFFIX,statsigapi.net
 - DOMAIN-SUFFIX,featuregates.org
-- DOMAIN-SUFFIX,identrust.com
 - DOMAIN-SUFFIX,intercom.io
 - DOMAIN-SUFFIX,intercomcdn.com
 - DOMAIN-SUFFIX,launchdarkly.com

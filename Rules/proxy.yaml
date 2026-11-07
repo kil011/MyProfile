@@ -42,7 +42,6 @@ payload:
 - DOMAIN-SUFFIX,vesselfinder.com
 - DOMAIN-SUFFIX,vesselfinder.net
 - DOMAIN-SUFFIX,wpengine.com
-- DOMAIN-SUFFIX,lencr.org
 - DOMAIN-SUFFIX,tmdb.com
 - DOMAIN-SUFFIX,tmdb.org
 - DOMAIN-SUFFIX,cdn-zlib.sk
@@ -72,7 +71,6 @@ payload:
 - DOMAIN-SUFFIX,iloveimg.com
 - DOMAIN-SUFFIX,vectorpea.com
 - DOMAIN-SUFFIX,photopea.com
-- DOMAIN-SUFFIX,digicert.com
 - DOMAIN-SUFFIX,braze.com
 - DOMAIN-SUFFIX,braze-images.com
 - DOMAIN-SUFFIX,optimizely.com
@@ -159,7 +157,6 @@ payload:
 - DOMAIN-SUFFIX,arkoselabs.com
 - DOMAIN-SUFFIX,statsigapi.net
 - DOMAIN-SUFFIX,featuregates.org
-- DOMAIN-SUFFIX,identrust.com
 - DOMAIN-SUFFIX,intercom.io
 - DOMAIN-SUFFIX,intercomcdn.com
 - DOMAIN-SUFFIX,launchdarkly.com
@@ -326,7 +323,6 @@ payload:
 - DOMAIN-SUFFIX,resilio.com
 - DOMAIN-SUFFIX,smartdnsproxy.com
 - DOMAIN-SUFFIX,startpage.com
-- DOMAIN-SUFFIX,trustasiassl.com
 - DOMAIN-SUFFIX,tvb.com
 - DOMAIN-SUFFIX,v2ex.com
 
@@ -470,7 +466,6 @@ payload:
 - DOMAIN-SUFFIX,msidentity.com
 - DOMAIN-SUFFIX,msn.com
 - DOMAIN-SUFFIX,msocdn.com
-- DOMAIN-SUFFIX,msocsp.com
 - DOMAIN-SUFFIX,mstea.ms
 - DOMAIN-SUFFIX,o365weve.com
 - DOMAIN-SUFFIX,oaspapps.com
@@ -478,7 +473,6 @@ payload:
 - DOMAIN-SUFFIX,office.net
 - DOMAIN-SUFFIX,office365.com
 - DOMAIN-SUFFIX,officeppe.net
-- DOMAIN-SUFFIX,omniroot.com
 - DOMAIN-SUFFIX,onedrive.com
 - DOMAIN-SUFFIX,onenote.com
 - DOMAIN-SUFFIX,onenote.net
@@ -486,7 +480,6 @@ payload:
 - DOMAIN-SUFFIX,outlook.com
 - DOMAIN-SUFFIX,outlookmobile.com
 - DOMAIN-SUFFIX,phonefactor.net
-- DOMAIN-SUFFIX,public-trust.com
 - DOMAIN-SUFFIX,sfbassets.com
 - DOMAIN-SUFFIX,sfx.ms
 - DOMAIN-SUFFIX,sharepoint.com

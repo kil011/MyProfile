@@ -3,7 +3,6 @@ payload:
 - DOMAIN-SUFFIX,keepcalling.net
 - DOMAIN-SUFFIX,fumamx.com
 - DOMAIN-SUFFIX,ntp.org
-- DOMAIN-SUFFIX,comodoca.com
 - DOMAIN-SUFFIX,windows.com
 - DOMAIN-SUFFIX,api.wcc.best
 - DOMAIN-SUFFIX,sub.xeton.dev
@@ -12,7 +11,6 @@ payload:
 - DOMAIN-SUFFIX,sonos.com
 - DOMAIN-SUFFIX,boki.moe
 - DOMAIN-SUFFIX,gitee.com
-- DOMAIN-SUFFIX,trustutn.org
 - DOMAIN-SUFFIX,263.net
 - DOMAIN-SUFFIX,bzzgoup.com
 - DOMAIN-SUFFIX,kingsoft-office-service.com
@@ -719,6 +717,17 @@ payload:
 - DOMAIN-SUFFIX,mihoyo.com
 - DOMAIN-SUFFIX,miyoushe.com
 - DOMAIN-SUFFIX,mhystatic.com
+
+# CA
+- DOMAIN-SUFFIX,digicert.com
+- DOMAIN-SUFFIX,lencr.org
+- DOMAIN-SUFFIX,identrust.com
+- DOMAIN-SUFFIX,trustasiassl.com
+- DOMAIN-SUFFIX,omniroot.com
+- DOMAIN-SUFFIX,public-trust.com
+- DOMAIN-SUFFIX,msocsp.com
+- DOMAIN-SUFFIX,comodoca.com
+- DOMAIN-SUFFIX,trustutn.org
 
 # CDN
 - DOMAIN-SUFFIX,baomitu.com
