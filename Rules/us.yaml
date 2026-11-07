@@ -55,3 +55,22 @@ payload:
 - DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
 - DOMAIN-SUFFIX,siftscience.com
 - DOMAIN-SUFFIX,sentry.io
+
+payload:
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,chatgpt
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,oaistatsig.com
+  - DOMAIN-SUFFIX,sora.com
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,chat.com
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,arkoselabs.com
+  - DOMAIN-SUFFIX,livekit.cloud
+  - DOMAIN-SUFFIX,statsigapi.net
+  - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,workos.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,stripe.com
