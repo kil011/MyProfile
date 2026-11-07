@@ -25,14 +25,6 @@ payload:
 - DOMAIN-KEYWORD,officedepot
 - DOMAIN-KEYWORD,kroger
 
-# Gemini Notebook
-- DOMAIN-SUFFIX,notebook.google
-- DOMAIN-SUFFIX,notebook.google.com
-- DOMAIN-SUFFIX,notebooklm.google
-- DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
-- DOMAIN-SUFFIX,labs-tailwind-pa.googleapis.com
-- DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
-
 # AI 共用
 - DOMAIN-SUFFIX,auth0.com
 - DOMAIN,challenges.cloudflare.com
@@ -42,6 +34,14 @@ payload:
 - DOMAIN-SUFFIX,intercomcdn.com
 - DOMAIN-SUFFIX,sentry.io
 - DOMAIN-SUFFIX,stripe.com
+
+# Gemini Notebook
+- DOMAIN-SUFFIX,notebook.google
+- DOMAIN-SUFFIX,notebook.google.com
+- DOMAIN-SUFFIX,notebooklm.google
+- DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
+- DOMAIN-SUFFIX,labs-tailwind-pa.googleapis.com
+- DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
 
 # Anthropic / Claude
 - DOMAIN-SUFFIX,anthropic.com
