@@ -29,9 +29,10 @@ payload:
 - DOMAIN-SUFFIX,notebook.google
 - DOMAIN-SUFFIX,notebook.google.com
 - DOMAIN-SUFFIX,notebooklm.google
-- DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
+- DOMAIN-SUFFIX,notebooklm.google.com
 - DOMAIN-SUFFIX,labs-tailwind-pa.googleapis.com
 - DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
+- DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
 
 # Anthropic / Claude
 - DOMAIN-SUFFIX,anthropic.com
