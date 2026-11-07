@@ -172,20 +172,6 @@ payload:
 - DOMAIN-SUFFIX,segment.com
 - DOMAIN-SUFFIX,segment.io
 - DOMAIN-SUFFIX,sentry.io
-- DOMAIN-SUFFIX,cohere.com
-- DOMAIN-SUFFIX,cursor.com
-- DOMAIN-SUFFIX,cursor.sh
-- DOMAIN-SUFFIX,deepmind.com
-- DOMAIN-SUFFIX,grok.com
-- DOMAIN-SUFFIX,groq.com
-- DOMAIN-SUFFIX,huggingface.co
-- DOMAIN-SUFFIX,mistral.ai
-- DOMAIN-SUFFIX,openrouter.ai
-- DOMAIN-SUFFIX,perplexity.ai
-- DOMAIN-SUFFIX,pplx.ai
-- DOMAIN-SUFFIX,poe.com
-- DOMAIN-SUFFIX,character.ai
-- DOMAIN-SUFFIX,x.ai
 
 # OpenAI / ChatGPT
 - DOMAIN-KEYWORD,openai
