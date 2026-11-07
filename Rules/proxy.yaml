@@ -254,7 +254,6 @@ payload:
 - DOMAIN-SUFFIX,ytimg.com
 - DOMAIN-SUFFIX,youtu.be
 - DOMAIN-SUFFIX,yt.be
-- GEOIP,google
 
 # Netflix
 - DOMAIN-SUFFIX,fast.com
