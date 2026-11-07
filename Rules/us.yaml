@@ -40,32 +40,55 @@ payload:
 - DOMAIN-SUFFIX,fitbitvestibuleshim-pa.googleapis.com
 - DOMAIN-SUFFIX,fitbitidentitylink-pa.googleapis.com
 
+# AI 共用
+- DOMAIN-SUFFIX,auth0.com
+- DOMAIN,challenges.cloudflare.com
+- DOMAIN-SUFFIX,statsigapi.net
+- DOMAIN-SUFFIX,featuregates.org
+- DOMAIN-SUFFIX,intercom.io
+- DOMAIN-SUFFIX,intercomcdn.com
+- DOMAIN-SUFFIX,sentry.io
+- DOMAIN-SUFFIX,stripe.com
+
 # Anthropic / Claude
-- DOMAIN-KEYWORD,anthropic
-- DOMAIN-KEYWORD,claude
+- DOMAIN-SUFFIX,anthropic.com
+- DOMAIN-SUFFIX,claude.ai
+- DOMAIN-SUFFIX,claude.com
+- DOMAIN-SUFFIX,claude.app
+- DOMAIN-SUFFIX,claude.dev
+- DOMAIN-SUFFIX,clau.de
+- DOMAIN-SUFFIX,claude.media
+- DOMAIN-SUFFIX,claudestatic.com
+- DOMAIN-SUFFIX,claudeusercontent.com
+- DOMAIN-SUFFIX,claudemcpcontent.com
+- DOMAIN-SUFFIX,claudemcpclient.com
+- DOMAIN,servd-anthropic-website.b-cdn.net
+- DOMAIN,anthropic.com.cdn.cloudflare.net
+- DOMAIN,anthropic-com.ghost.io
+- DOMAIN,cdn.usefathom.com
+- DOMAIN,browser-intake-us5-datadoghq.com
 - DOMAIN-SUFFIX,stripe.network
-- DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
 - DOMAIN-SUFFIX,siftscience.com
 - DOMAIN-SUFFIX,sift.com
-- DOMAIN-SUFFIX,sentry.io
-
 
 # OpenAI / ChatGPT
-- DOMAIN-KEYWORD,openai
-- DOMAIN-KEYWORD,chatgpt
+- DOMAIN-SUFFIX,openai.com
+- DOMAIN-SUFFIX,chatgpt.com
 - DOMAIN-SUFFIX,oaistatic.com
 - DOMAIN-SUFFIX,oaiusercontent.com
 - DOMAIN-SUFFIX,oaistatsig.com
 - DOMAIN-SUFFIX,sora.com
 - DOMAIN-SUFFIX,ai.com
 - DOMAIN-SUFFIX,chat.com
-- DOMAIN,challenges.cloudflare.com
+- DOMAIN-SUFFIX,openaimerge.com
+- DOMAIN,chat.openai.com.cdn.cloudflare.net
+- DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+- DOMAIN,openaicomproductionae4b.blob.core.windows.net
+- DOMAIN,production-openaicom-storage.azureedge.net
+- DOMAIN,openaiapi-site.azureedge.net
+- DOMAIN,openaicom.imgix.net
+- DOMAIN,browser-intake-datadoghq.com
+- DOMAIN,api.statsig.com
 - DOMAIN-SUFFIX,arkoselabs.com
 - DOMAIN-SUFFIX,livekit.cloud
-- DOMAIN-SUFFIX,statsigapi.net
-- DOMAIN-SUFFIX,featuregates.org
 - DOMAIN-SUFFIX,workos.com
-- DOMAIN-SUFFIX,intercom.io
-- DOMAIN-SUFFIX,intercomcdn.com
-- DOMAIN-SUFFIX,stripe.com
-
