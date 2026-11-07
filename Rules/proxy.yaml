@@ -198,7 +198,7 @@ payload:
 - DOMAIN-SUFFIX,host.livekit.cloud
 - DOMAIN-SUFFIX,turn.livekit.cloud
 
-# Claude
+# Anthropic
 - DOMAIN-SUFFIX,ant.dev
 - DOMAIN-SUFFIX,anthropic.com
 - DOMAIN-SUFFIX,anthropic.team
@@ -219,7 +219,7 @@ payload:
 - DOMAIN-SUFFIX,claudeusercontent.com
 - DOMAIN,servd-anthropic-website.b-cdn.net
 
-# Meta AI
+# Meta
 - DOMAIN-SUFFIX,muse.ai
 - DOMAIN-SUFFIX,museai.com
 - DOMAIN-SUFFIX,meta.ai

@@ -25,7 +25,7 @@ payload:
 - DOMAIN-KEYWORD,officedepot
 - DOMAIN-KEYWORD,kroger
 
-# NotebookLM
+# Gemini Notebook
 - DOMAIN-SUFFIX,notebook.google
 - DOMAIN-SUFFIX,notebook.google.com
 - DOMAIN-SUFFIX,notebooklm.google
@@ -60,7 +60,7 @@ payload:
 - DOMAIN-SUFFIX,sift.com
 - DOMAIN-SUFFIX,siftscience.com
 
-# Claude
+# Anthropic
 - DOMAIN-SUFFIX,ant.dev
 - DOMAIN-SUFFIX,anthropic.com
 - DOMAIN-SUFFIX,anthropic.team
