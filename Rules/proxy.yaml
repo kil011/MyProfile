@@ -219,7 +219,7 @@ payload:
 - DOMAIN-SUFFIX,claudeusercontent.com
 - DOMAIN,servd-anthropic-website.b-cdn.net
 
-# Meta
+# Meta AI
 - DOMAIN-SUFFIX,muse.ai
 - DOMAIN-SUFFIX,museai.com
 - DOMAIN-SUFFIX,meta.ai
