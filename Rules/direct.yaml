@@ -285,6 +285,15 @@ payload:
 - DOMAIN-SUFFIX,cmcc.net
 - DOMAIN-SUFFIX,telecomcn.com
 - DOMAIN-SUFFIX,10010.com
+- DOMAIN-SUFFIX,xhslink.com
+- DOMAIN-SUFFIX,xhscdn.net
+- DOMAIN-SUFFIX,139.com
+- DOMAIN-SUFFIX,21cn.com
+- DOMAIN-SUFFIX,chinaunicom.com
+- DOMAIN-SUFFIX,flyme.com
+- DOMAIN-SUFFIX,mzres.com
+- DOMAIN-SUFFIX,lenovo.com
+- DOMAIN-SUFFIX,tripcdn.com
 
 #Bank
 - DOMAIN-SUFFIX,abchina.com
@@ -306,6 +315,9 @@ payload:
 - DOMAIN-SUFFIX,chinapay.com
 - DOMAIN-SUFFIX,chinaums.com
 - DOMAIN-SUFFIX,95516.com
+- DOMAIN-SUFFIX,95588.com
+- DOMAIN-SUFFIX,95508.com
+- DOMAIN-SUFFIX,95559.com
 
 # 360
 - DOMAIN-SUFFIX,360.com
@@ -366,6 +378,11 @@ payload:
 - DOMAIN-SUFFIX,youku.com
 - DOMAIN-SUFFIX,qwen.ai
 - DOMAIN-SUFFIX,goofish.com
+- DOMAIN-SUFFIX,gaode.com
+- DOMAIN-SUFFIX,cainiao.com
+- DOMAIN-SUFFIX,eleme.io
+- DOMAIN-SUFFIX,elemecdn.com
+- DOMAIN-SUFFIX,alidns.com
 
 # Baidu
 - DOMAIN-SUFFIX,baidu.com
@@ -380,6 +397,7 @@ payload:
 - DOMAIN-SUFFIX,hao123img.com
 - DOMAIN-SUFFIX,jomodns.com
 - DOMAIN-SUFFIX,yunjiasu-cdn.net
+- DOMAIN-SUFFIX,baidubce.com
 
 # Bilibili
 - DOMAIN,upos-hz-mirrorakam.akamaized.net
@@ -390,13 +408,14 @@ payload:
 - DOMAIN-SUFFIX,biliapi.net
 - DOMAIN-SUFFIX,bilibili.co
 - DOMAIN-SUFFIX,bilibili.com
-- DOMAIN-SUFFIX,bilibili.tv
 - DOMAIN-SUFFIX,biligame.com
 - DOMAIN-SUFFIX,biligame.net
 - DOMAIN-SUFFIX,biliintl.co
 - DOMAIN-SUFFIX,bilivideo.com
 - DOMAIN-SUFFIX,hdslb.com
 - DOMAIN-SUFFIX,im9.com
+- DOMAIN-SUFFIX,biliimg.com
+- DOMAIN-SUFFIX,bilivideo.net
 
 # ByteDance
 - DOMAIN-SUFFIX,amemv.com
@@ -440,6 +459,12 @@ payload:
 - DOMAIN-SUFFIX,zijieimg.com
 - DOMAIN-SUFFIX,zjbyte.com
 - DOMAIN-SUFFIX,zjcdn.com
+- DOMAIN-SUFFIX,byteimg.com
+- DOMAIN-SUFFIX,volces.com
+- DOMAIN-SUFFIX,volccdn.com
+- DOMAIN-SUFFIX,feishu.net
+- DOMAIN-SUFFIX,feishucdn.com
+- DOMAIN-SUFFIX,doubao.com
 
 # CCTV
 - DOMAIN-SUFFIX,cctv.com
@@ -455,6 +480,8 @@ payload:
 - DOMAIN-SUFFIX,didialift.com
 - DOMAIN-SUFFIX,didiglobal.com
 - DOMAIN-SUFFIX,udache.com
+- DOMAIN-SUFFIX,didichuxing.com
+- DOMAIN-SUFFIX,didistatic.com
 
 # Douyu
 - DOMAIN-SUFFIX,bytefcdnrd.com
@@ -482,6 +509,7 @@ payload:
 - DOMAIN-SUFFIX,hwccpc.com
 - DOMAIN-SUFFIX,vmall.com
 - DOMAIN-SUFFIX,vmallres.com
+- DOMAIN-SUFFIX,honor.com
 
 # Heytap
 - DOMAIN-SUFFIX,allawnfs.com
@@ -526,10 +554,16 @@ payload:
 - DOMAIN-SUFFIX,iciba.com
 - DOMAIN-SUFFIX,ksosoft.com
 - DOMAIN-SUFFIX,ksyun.com
+- DOMAIN-SUFFIX,wps.com
+- DOMAIN-SUFFIX,wpscdn.com
+- DOMAIN-SUFFIX,kingsoft.com
 
 # Kuaishou
 - DOMAIN-SUFFIX,kuaishou.com
 - DOMAIN-SUFFIX,yximgs.com
+- DOMAIN-SUFFIX,kwaicdn.com
+- DOMAIN-SUFFIX,kwimgs.com
+- DOMAIN-SUFFIX,ksapisrv.com
 
 # Meitu
 - DOMAIN-SUFFIX,meitu.com
@@ -571,11 +605,15 @@ payload:
 - DOMAIN-SUFFIX,netease.im
 - DOMAIN-SUFFIX,ydstatic.com
 - DOMAIN-SUFFIX,youdao.com
+- DOMAIN-SUFFIX,yeah.net
+- DOMAIN-SUFFIX,188.com
 
 # PDD
 - DOMAIN-SUFFIX,pinduoduo.com
 - DOMAIN-SUFFIX,yangkeduo.com
 - DOMAIN-SUFFIX,pddpic.com
+- DOMAIN-SUFFIX,pddugc.com
+- DOMAIN-SUFFIX,pddcdn.com
 
 # Sina
 - DOMAIN-SUFFIX,leju.com
@@ -649,6 +687,9 @@ payload:
 - DOMAIN-SUFFIX,weixinbridge.com
 - DOMAIN-SUFFIX,weixinsxy.com
 - DOMAIN-SUFFIX,wxwork.com
+- DOMAIN-SUFFIX,tencent-cloud.com
+- DOMAIN-SUFFIX,tencentcs.com
+- DOMAIN-SUFFIX,qcloudimg.com
 
 # Vip
 - DOMAIN-SUFFIX,appsimg.com
@@ -670,6 +711,15 @@ payload:
 - DOMAIN-SUFFIX,thundercdn.com
 - DOMAIN-SUFFIX,xunlei.com
 
+# China AI
+- DOMAIN-SUFFIX,deepseek.com
+- DOMAIN-SUFFIX,kimi.com
+
+# miHoYo
+- DOMAIN-SUFFIX,mihoyo.com
+- DOMAIN-SUFFIX,miyoushe.com
+- DOMAIN-SUFFIX,mhystatic.com
+
 # Public Direct CDN
 - DOMAIN-SUFFIX,baomitu.com
 - DOMAIN-SUFFIX,bootcss.com
@@ -679,7 +729,6 @@ payload:
 
 # China DNS
 - DOMAIN-SUFFIX,doh.pub
-- DOMAIN-SUFFIX,dns.alidns.com
 - IP-CIDR,1.12.12.12/32,no-resolve
 
 # Microsoft Services
