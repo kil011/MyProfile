@@ -142,7 +142,7 @@ payload:
 - DOMAIN-SUFFIX,launchdarkly.com
 - DOMAIN-SUFFIX,stripe.com
 
-# OpenAI/ChatGPT
+# OpenAI / ChatGPT
 - DOMAIN-KEYWORD,openai
 - DOMAIN-KEYWORD,chatgpt
 - DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
@@ -157,6 +157,43 @@ payload:
 - DOMAIN-SUFFIX,chat.com
 - DOMAIN-SUFFIX,sora.com
 - DOMAIN-SUFFIX,hcaptcha.com
+
+# Anthropic / Claude
+- DOMAIN-SUFFIX,anthropic.com
+- DOMAIN-SUFFIX,claude.ai
+- DOMAIN-SUFFIX,claude.com
+- DOMAIN-SUFFIX,claude.app
+- DOMAIN-SUFFIX,claude.dev
+- DOMAIN-SUFFIX,clau.de
+- DOMAIN-SUFFIX,claude.media
+- DOMAIN-SUFFIX,claudestatic.com
+- DOMAIN-SUFFIX,claudeusercontent.com
+- DOMAIN-SUFFIX,claudemcpcontent.com
+- DOMAIN-SUFFIX,claudemcpclient.com
+- DOMAIN,servd-anthropic-website.b-cdn.net
+- DOMAIN,anthropic.com.cdn.cloudflare.net
+- DOMAIN,anthropic-com.ghost.io
+- DOMAIN,cdn.usefathom.com
+- DOMAIN,browser-intake-us5-datadoghq.com
+- DOMAIN-SUFFIX,stripe.network
+- DOMAIN-SUFFIX,siftscience.com
+- DOMAIN-SUFFIX,sift.com
+
+# Meta / Muse
+- DOMAIN-SUFFIX,muse.ai
+- DOMAIN-SUFFIX,museai.com
+- DOMAIN-SUFFIX,meta.ai
+- DOMAIN-SUFFIX,meta.com
+- DOMAIN-SUFFIX,atmeta.com
+- DOMAIN-SUFFIX,metaaivm.com
+- DOMAIN-SUFFIX,metaaiusercontent.com
+- DOMAIN-SUFFIX,ecto1usercontent.com
+- DOMAIN,hatch.ecto1.ai
+- DOMAIN,node.hatch.one
+- DOMAIN,meta.privacy-gateway.cloudflare.com
+- DOMAIN,meta.hpke-keys.privacy-gateway.cloudflare.com
+- DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
+- DOMAIN,meta-ohttp-config-prod.fastly-edge.com
 
 # Google
 - DOMAIN-SUFFIX,fitbit.com
@@ -178,32 +215,6 @@ payload:
 - DOMAIN-SUFFIX,youtu.be
 - DOMAIN-SUFFIX,yt.be
 - GEOIP,google
-
-# Claude
-- DOMAIN-KEYWORD,anthropic
-- DOMAIN-KEYWORD,claude
-- DOMAIN-SUFFIX,anthropic.com
-- DOMAIN-SUFFIX,claude.ai
-- DOMAIN-SUFFIX,claude.media
-- DOMAIN-SUFFIX,claudestatic.com
-- DOMAIN-SUFFIX,claudeusercontent.com
-- DOMAIN-SUFFIX,stripe.network
-
-# Meta / Muse
-- DOMAIN-SUFFIX,muse.ai
-- DOMAIN-SUFFIX,museai.com
-- DOMAIN-SUFFIX,meta.ai
-- DOMAIN-SUFFIX,meta.com
-- DOMAIN-SUFFIX,atmeta.com
-- DOMAIN-SUFFIX,metaaivm.com
-- DOMAIN-SUFFIX,metaaiusercontent.com
-- DOMAIN-SUFFIX,ecto1usercontent.com
-- DOMAIN,hatch.ecto1.ai
-- DOMAIN,node.hatch.one
-- DOMAIN,meta.privacy-gateway.cloudflare.com
-- DOMAIN,meta.hpke-keys.privacy-gateway.cloudflare.com
-- DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
-- DOMAIN,meta-ohttp-config-prod.fastly-edge.com
 
 # Netflix
 - DOMAIN-SUFFIX,netflix.com.edgesuite.net
