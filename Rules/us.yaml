@@ -39,3 +39,19 @@ payload:
 - DOMAIN-SUFFIX,fitbit-pa.googleapis.com
 - DOMAIN-SUFFIX,fitbitvestibuleshim-pa.googleapis.com
 - DOMAIN-SUFFIX,fitbitidentitylink-pa.googleapis.com
+
+# Claude
+- DOMAIN-KEYWORD,anthropic
+- DOMAIN-KEYWORD,claude
+- DOMAIN-SUFFIX,anthropic.com
+- DOMAIN-SUFFIX,claude.ai
+- DOMAIN-SUFFIX,claude.com
+- DOMAIN-SUFFIX,claude.app
+- DOMAIN-SUFFIX,claude.media
+- DOMAIN-SUFFIX,claudestatic.com
+- DOMAIN-SUFFIX,claudeusercontent.com
+- DOMAIN-SUFFIX,claudemcpcontent.com
+- DOMAIN-SUFFIX,stripe.network
+- DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
+- DOMAIN-SUFFIX,siftscience.com
+- DOMAIN-SUFFIX,sentry.io
