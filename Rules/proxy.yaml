@@ -172,6 +172,10 @@ payload:
 - DOMAIN-SUFFIX,segment.com
 - DOMAIN-SUFFIX,segment.io
 - DOMAIN-SUFFIX,sentry.io
+- DOMAIN-SUFFIX,hcaptcha.com
+- DOMAIN-SUFFIX,stripe.network
+- DOMAIN-SUFFIX,sift.com
+- DOMAIN-SUFFIX,siftscience.com
 
 # OpenAI / ChatGPT
 - DOMAIN-SUFFIX,chat.com
