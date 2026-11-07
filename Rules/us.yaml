@@ -87,6 +87,7 @@ payload:
 - DOMAIN-SUFFIX,stripe.network
 - DOMAIN-SUFFIX,sift.com
 - DOMAIN-SUFFIX,siftscience.com
+- DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
 
 # Anthropic
 - DOMAIN-SUFFIX,ant.dev
@@ -108,4 +109,3 @@ payload:
 - DOMAIN-SUFFIX,claudestudio.com
 - DOMAIN-SUFFIX,claudeusercontent.com
 - DOMAIN,servd-anthropic-website.b-cdn.net
-- DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
