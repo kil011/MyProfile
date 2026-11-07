@@ -23,7 +23,6 @@ payload:
 - DOMAIN-SUFFIX,ncdn.ec
 - DOMAIN-SUFFIX,adtidy.org
 - DOMAIN-SUFFIX,images-na.ssl-images-amazon.com
-- DOMAIN-SUFFIX,amp-api.podcasts.apple.com
 - DOMAIN-SUFFIX,testflight.apple.com
 - DOMAIN-SUFFIX,ess.apple.com
 - DOMAIN-SUFFIX,podcasts.apple.com
@@ -126,9 +125,33 @@ payload:
 - DOMAIN-SUFFIX,whatismyipaddress.com
 - DOMAIN-SUFFIX,whoer.net
 - DOMAIN-SUFFIX,wtfismyip.com
+- DOMAIN-SUFFIX,bigdatacloud.net
+- DOMAIN-SUFFIX,browserleaks.com
+- DOMAIN-SUFFIX,dnsleaktest.com
+- DOMAIN-SUFFIX,extreme-ip-lookup.com
+- DOMAIN-SUFFIX,ifconfig.io
+- DOMAIN-SUFFIX,ipaddress.com
+- DOMAIN-SUFFIX,ipbase.com
+- DOMAIN-SUFFIX,ipcheck.ing
+- DOMAIN-SUFFIX,ipecho.net
+- DOMAIN-SUFFIX,iphey.com
+- DOMAIN-SUFFIX,iplark.com
+- DOMAIN-SUFFIX,ipleak.net
+- DOMAIN-SUFFIX,ipqualityscore.com
+- DOMAIN-SUFFIX,ipregistry.co
+- DOMAIN-SUFFIX,ipwhois.app
+- DOMAIN-SUFFIX,ipwhois.io
+- DOMAIN-SUFFIX,ipx.ac
+- DOMAIN-SUFFIX,myip.wtf
+- DOMAIN-SUFFIX,ping0.cc
+- DOMAIN-SUFFIX,pixelscan.net
+- DOMAIN-SUFFIX,scamalytics.com
+- DOMAIN-SUFFIX,seeip.org
+- DOMAIN-SUFFIX,whatleaks.com
+- DOMAIN,checkip.amazonaws.com
+- DOMAIN,ip.skk.moe
 
 # AI General Rules
-- DOMAIN-SUFFIX,api.revenuecat.com
 - DOMAIN-SUFFIX,api.statsig.com
 - DOMAIN-SUFFIX,static.cloudflareinsights.com
 - DOMAIN-SUFFIX,algolia.net
@@ -141,13 +164,32 @@ payload:
 - DOMAIN-SUFFIX,intercomcdn.com
 - DOMAIN-SUFFIX,launchdarkly.com
 - DOMAIN-SUFFIX,stripe.com
+- DOMAIN-SUFFIX,amplitude.com
+- DOMAIN-SUFFIX,challenges.cloudflare.com
+- DOMAIN-SUFFIX,datadoghq.com
+- DOMAIN-SUFFIX,mixpanel.com
+- DOMAIN-SUFFIX,posthog.com
+- DOMAIN-SUFFIX,segment.com
+- DOMAIN-SUFFIX,segment.io
+- DOMAIN-SUFFIX,sentry.io
+- DOMAIN-SUFFIX,cohere.com
+- DOMAIN-SUFFIX,cursor.com
+- DOMAIN-SUFFIX,cursor.sh
+- DOMAIN-SUFFIX,deepmind.com
+- DOMAIN-SUFFIX,grok.com
+- DOMAIN-SUFFIX,groq.com
+- DOMAIN-SUFFIX,huggingface.co
+- DOMAIN-SUFFIX,mistral.ai
+- DOMAIN-SUFFIX,openrouter.ai
+- DOMAIN-SUFFIX,perplexity.ai
+- DOMAIN-SUFFIX,pplx.ai
+- DOMAIN-SUFFIX,poe.com
+- DOMAIN-SUFFIX,character.ai
+- DOMAIN-SUFFIX,x.ai
 
 # OpenAI / ChatGPT
 - DOMAIN-KEYWORD,openai
 - DOMAIN-KEYWORD,chatgpt
-- DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-- DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
-- DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
 - DOMAIN-SUFFIX,ai.com
 - DOMAIN-SUFFIX,livekit.cloud
 - DOMAIN-SUFFIX,oaistatic.com
@@ -217,7 +259,6 @@ payload:
 - GEOIP,google
 
 # Netflix
-- DOMAIN-SUFFIX,netflix.com.edgesuite.net
 - DOMAIN-SUFFIX,fast.com
 - DOMAIN-SUFFIX,netflix.com
 - DOMAIN-SUFFIX,netflix.net
@@ -283,7 +324,6 @@ payload:
 - DOMAIN-SUFFIX,flickr.com
 - DOMAIN-SUFFIX,flipboard.com
 - DOMAIN-SUFFIX,heroku.com
-- DOMAIN-SUFFIX,id.heroku.com
 - DOMAIN-SUFFIX,kik.com
 - DOMAIN-SUFFIX,kobo.com
 - DOMAIN-SUFFIX,kobobooks.com
@@ -351,7 +391,6 @@ payload:
 # Whatsapp
 - DOMAIN-SUFFIX,whatsapp.com
 - DOMAIN-SUFFIX,whatsapp.net
-- DOMAIN-SUFFIX,edge-mqtt.facebook.com
 
 # Line
 - DOMAIN-SUFFIX,lin.ee
