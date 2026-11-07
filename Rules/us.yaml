@@ -33,13 +33,6 @@ payload:
 - DOMAIN-SUFFIX,labs-tailwind-pa.googleapis.com
 - DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
 
-# Google Fitbit
-- DOMAIN-SUFFIX,fitbit.com
-- DOMAIN-SUFFIX,fitbit.google.com
-- DOMAIN-SUFFIX,fitbit-pa.googleapis.com
-- DOMAIN-SUFFIX,fitbitvestibuleshim-pa.googleapis.com
-- DOMAIN-SUFFIX,fitbitidentitylink-pa.googleapis.com
-
 # AI 共用
 - DOMAIN-SUFFIX,auth0.com
 - DOMAIN,challenges.cloudflare.com
