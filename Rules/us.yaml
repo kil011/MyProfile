@@ -89,6 +89,29 @@ payload:
 - DOMAIN-SUFFIX,siftscience.com
 - DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
 
+# OpenAI
+- DOMAIN-SUFFIX,chat.com
+- DOMAIN-SUFFIX,chatgpt.com
+- DOMAIN-SUFFIX,chatgpt.site
+- DOMAIN-SUFFIX,crixet.com
+- DOMAIN-SUFFIX,oaistatic.com
+- DOMAIN-SUFFIX,oaistatsig.com
+- DOMAIN-SUFFIX,oaiusercontent.com
+- DOMAIN-SUFFIX,openai.com
+- DOMAIN-SUFFIX,openai.org
+- DOMAIN-SUFFIX,sora.com
+- DOMAIN,openaiapi-site.azureedge.net
+- DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+- DOMAIN,openaicom.imgix.net
+- DOMAIN,production-openaicom-storage.azureedge.net
+- DOMAIN,browser-intake-datadoghq.com
+- DOMAIN,openai.qualtrics.com
+- DOMAIN-SUFFIX,chatgpt.livekit.cloud
+- DOMAIN-SUFFIX,host.livekit.cloud
+- DOMAIN-SUFFIX,turn.livekit.cloud
+- DOMAIN,openaiassets.blob.core.windows.net
+- DOMAIN,openaicomproductionae4b.blob.core.windows.net
+
 # Anthropic
 - DOMAIN-SUFFIX,ant.dev
 - DOMAIN-SUFFIX,anthropic.com
