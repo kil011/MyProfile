@@ -1,13 +1,5 @@
 payload:
 # My List
-- DOMAIN-SUFFIX,amazon.com
-- DOMAIN-SUFFIX,amazon.ca
-- DOMAIN-SUFFIX,amzn.com
-- DOMAIN-SUFFIX,amzn.to
-- DOMAIN-SUFFIX,media-amazon.com
-- DOMAIN-SUFFIX,ssl-images-amazon.com
-- DOMAIN-SUFFIX,images-amazon.com
-- DOMAIN-SUFFIX,amazonpay.com
 - DOMAIN-SUFFIX,walmart.com
 - DOMAIN-SUFFIX,walmart.ca
 - DOMAIN-SUFFIX,wal-mart.com

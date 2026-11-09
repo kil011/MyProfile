@@ -22,7 +22,6 @@ payload:
 - DOMAIN-SUFFIX,crashlytics.com
 - DOMAIN-SUFFIX,ncdn.ec
 - DOMAIN-SUFFIX,adtidy.org
-- DOMAIN-SUFFIX,images-na.ssl-images-amazon.com
 - DOMAIN-SUFFIX,testflight.apple.com
 - DOMAIN-SUFFIX,ess.apple.com
 - DOMAIN-SUFFIX,podcasts.apple.com
@@ -231,6 +230,16 @@ payload:
 - DOMAIN,meta.hpke-keys.privacy-gateway.cloudflare.com
 - DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
 - DOMAIN,meta-ohttp-config-prod.fastly-edge.com
+
+# Amazon
+- DOMAIN-SUFFIX,amazon.com
+- DOMAIN-SUFFIX,amazon.ca
+- DOMAIN-SUFFIX,amzn.com
+- DOMAIN-SUFFIX,amzn.to
+- DOMAIN-SUFFIX,media-amazon.com
+- DOMAIN-SUFFIX,ssl-images-amazon.com
+- DOMAIN-SUFFIX,images-amazon.com
+- DOMAIN-SUFFIX,amazonpay.com
 
 # Google
 - DOMAIN-SUFFIX,fitbit.com
