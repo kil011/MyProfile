@@ -1,16 +1,5 @@
 payload:
 # My List
-- DOMAIN-SUFFIX,walmart.com
-- DOMAIN-SUFFIX,walmart.ca
-- DOMAIN-SUFFIX,wal-mart.com
-- DOMAIN-SUFFIX,walmartimages.com
-- DOMAIN-SUFFIX,walmartimages.ca
-- DOMAIN-SUFFIX,wal.co
-- DOMAIN-SUFFIX,samsclub.com
-- DOMAIN-SUFFIX,target.com
-- DOMAIN-SUFFIX,targetimg1.com
-- DOMAIN-SUFFIX,targetimg2.com
-- DOMAIN-SUFFIX,partnersonline.com
 - DOMAIN-SUFFIX,homedepot.com
 - DOMAIN-SUFFIX,homedepot.ca
 - DOMAIN-SUFFIX,thdstatic.com
@@ -18,32 +7,12 @@ payload:
 - DOMAIN-SUFFIX,lowes.ca
 - DOMAIN-SUFFIX,lowescdn.com
 - DOMAIN-SUFFIX,loweslink.com
-- DOMAIN-SUFFIX,rona.ca
-- DOMAIN-SUFFIX,costco.com
-- DOMAIN-SUFFIX,costco.ca
-- DOMAIN-SUFFIX,costcobusinessdelivery.com
 - DOMAIN-SUFFIX,bjs.com
-- DOMAIN-SUFFIX,tractorsupply.com
-- DOMAIN-SUFFIX,acehardware.com
-- DOMAIN-SUFFIX,homehardware.ca
-- DOMAIN-SUFFIX,canadiantire.ca
 - DOMAIN-SUFFIX,menards.com
-- DOMAIN-SUFFIX,tjx.com
-- DOMAIN-SUFFIX,tjmaxx.com
-- DOMAIN-SUFFIX,marshalls.com
-- DOMAIN-SUFFIX,homegoods.com
-- DOMAIN-SUFFIX,burlington.com
 - DOMAIN-SUFFIX,dollargeneral.com
-- DOMAIN-SUFFIX,aldi.us
 - DOMAIN-SUFFIX,kroger.com
-- DOMAIN-SUFFIX,bestbuy.com
-- DOMAIN-SUFFIX,bestbuy.ca
-- DOMAIN-SUFFIX,bbystatic.com
 - DOMAIN-SUFFIX,gamestop.com
 - DOMAIN-SUFFIX,gamestop.ca
-- DOMAIN-SUFFIX,staples.com
-- DOMAIN-SUFFIX,staples.ca
-- DOMAIN-SUFFIX,staples-3p.com
 - DOMAIN-SUFFIX,officedepot.com
 
 # Gemini Notebook
