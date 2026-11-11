@@ -92,3 +92,19 @@ payload:
 - DOMAIN-SUFFIX,claudestudio.com
 - DOMAIN-SUFFIX,claudeusercontent.com
 - DOMAIN,servd-anthropic-website.b-cdn.net
+
+# Meta AI
+- DOMAIN-SUFFIX,muse.ai
+- DOMAIN-SUFFIX,museai.com
+- DOMAIN-SUFFIX,meta.ai
+- DOMAIN-SUFFIX,meta.com
+- DOMAIN-SUFFIX,atmeta.com
+- DOMAIN-SUFFIX,metaaivm.com
+- DOMAIN-SUFFIX,metaaiusercontent.com
+- DOMAIN-SUFFIX,ecto1usercontent.com
+- DOMAIN,hatch.ecto1.ai
+- DOMAIN,node.hatch.one
+- DOMAIN,meta.privacy-gateway.cloudflare.com
+- DOMAIN,meta.hpke-keys.privacy-gateway.cloudflare.com
+- DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
+- DOMAIN,meta-ohttp-config-prod.fastly-edge.com
