@@ -108,3 +108,34 @@ payload:
 - DOMAIN,meta.hpke-keys.privacy-gateway.cloudflare.com
 - DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
 - DOMAIN,meta-ohttp-config-prod.fastly-edge.com
+- DOMAIN-SUFFIX,llama.com
+
+# Facebook
+- DOMAIN-SUFFIX,facebook.com
+- DOMAIN-SUFFIX,fb.com
+- DOMAIN-SUFFIX,fb.me
+- DOMAIN-SUFFIX,fbcdn.com
+- DOMAIN-SUFFIX,fbcdn.net
+- DOMAIN-SUFFIX,facebook.net
+- DOMAIN-SUFFIX,messenger.com
+- DOMAIN-SUFFIX,m.me
+- DOMAIN-SUFFIX,fbsbx.com
+- DOMAIN-SUFFIX,fb.gg
+- DOMAIN-SUFFIX,oculus.com
+- DOMAIN-SUFFIX,friendfeed.com
+- DOMAIN-SUFFIX,fbmessenger.com
+- DOMAIN-SUFFIX,fb.watch
+- DOMAIN-SUFFIX,fburl.com
+- DOMAIN-SUFFIX,fbsbx.net
+- DOMAIN-SUFFIX,tfbnw.net
+- DOMAIN-SUFFIX,oculuscdn.com
+
+# Instagram
+- DOMAIN-SUFFIX,cdninstagram.com
+- DOMAIN-SUFFIX,instagram.com
+- DOMAIN-SUFFIX,instagr.am
+- DOMAIN-SUFFIX,ig.me
+- DOMAIN-SUFFIX,igcdn.com
+- DOMAIN-SUFFIX,igtv.com
+- DOMAIN-SUFFIX,threads.net
+- DOMAIN-SUFFIX,threads.com

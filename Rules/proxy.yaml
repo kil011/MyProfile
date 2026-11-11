@@ -230,6 +230,7 @@ payload:
 - DOMAIN,meta.hpke-keys.privacy-gateway.cloudflare.com
 - DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
 - DOMAIN,meta-ohttp-config-prod.fastly-edge.com
+- DOMAIN-SUFFIX,llama.com
 
 # Amazon
 - DOMAIN-SUFFIX,amazon.com
@@ -356,6 +357,12 @@ payload:
 - DOMAIN-SUFFIX,fb.gg
 - DOMAIN-SUFFIX,oculus.com
 - DOMAIN-SUFFIX,friendfeed.com
+- DOMAIN-SUFFIX,fbmessenger.com
+- DOMAIN-SUFFIX,fb.watch
+- DOMAIN-SUFFIX,fburl.com
+- DOMAIN-SUFFIX,fbsbx.net
+- DOMAIN-SUFFIX,tfbnw.net
+- DOMAIN-SUFFIX,oculuscdn.com
 
 # GitHub
 - DOMAIN-SUFFIX,github.com
