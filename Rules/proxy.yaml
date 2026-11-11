@@ -172,6 +172,7 @@ payload:
 - DOMAIN-SUFFIX,stripe.network
 - DOMAIN-SUFFIX,sift.com
 - DOMAIN-SUFFIX,siftscience.com
+- DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
 
 # OpenAI
 - DOMAIN-SUFFIX,chat.com
@@ -215,7 +216,7 @@ payload:
 - DOMAIN-SUFFIX,claudeusercontent.com
 - DOMAIN,servd-anthropic-website.b-cdn.net
 
-# Meta AI
+# Meta
 - DOMAIN-SUFFIX,muse.ai
 - DOMAIN-SUFFIX,museai.com
 - DOMAIN-SUFFIX,meta.ai
@@ -231,6 +232,32 @@ payload:
 - DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
 - DOMAIN,meta-ohttp-config-prod.fastly-edge.com
 - DOMAIN-SUFFIX,llama.com
+- DOMAIN-SUFFIX,facebook.com
+- DOMAIN-SUFFIX,fb.com
+- DOMAIN-SUFFIX,fb.me
+- DOMAIN-SUFFIX,fbcdn.com
+- DOMAIN-SUFFIX,fbcdn.net
+- DOMAIN-SUFFIX,facebook.net
+- DOMAIN-SUFFIX,messenger.com
+- DOMAIN-SUFFIX,m.me
+- DOMAIN-SUFFIX,fbsbx.com
+- DOMAIN-SUFFIX,fb.gg
+- DOMAIN-SUFFIX,oculus.com
+- DOMAIN-SUFFIX,friendfeed.com
+- DOMAIN-SUFFIX,fbmessenger.com
+- DOMAIN-SUFFIX,fb.watch
+- DOMAIN-SUFFIX,fburl.com
+- DOMAIN-SUFFIX,fbsbx.net
+- DOMAIN-SUFFIX,tfbnw.net
+- DOMAIN-SUFFIX,oculuscdn.com
+- DOMAIN-SUFFIX,cdninstagram.com
+- DOMAIN-SUFFIX,instagram.com
+- DOMAIN-SUFFIX,instagr.am
+- DOMAIN-SUFFIX,ig.me
+- DOMAIN-SUFFIX,igcdn.com
+- DOMAIN-SUFFIX,igtv.com
+- DOMAIN-SUFFIX,threads.net
+- DOMAIN-SUFFIX,threads.com
 
 # Amazon
 - DOMAIN-SUFFIX,amazon.com
@@ -261,6 +288,8 @@ payload:
 - DOMAIN-SUFFIX,ytimg.com
 - DOMAIN-SUFFIX,youtu.be
 - DOMAIN-SUFFIX,yt.be
+- DOMAIN-SUFFIX,notebook.google
+- DOMAIN-SUFFIX,notebooklm.google
 
 # Netflix
 - DOMAIN-SUFFIX,fast.com
@@ -344,26 +373,6 @@ payload:
 - DOMAIN-SUFFIX,discordapp.com
 - DOMAIN-SUFFIX,discordapp.net
 
-# Facebook
-- DOMAIN-SUFFIX,facebook.com
-- DOMAIN-SUFFIX,fb.com
-- DOMAIN-SUFFIX,fb.me
-- DOMAIN-SUFFIX,fbcdn.com
-- DOMAIN-SUFFIX,fbcdn.net
-- DOMAIN-SUFFIX,facebook.net
-- DOMAIN-SUFFIX,messenger.com
-- DOMAIN-SUFFIX,m.me
-- DOMAIN-SUFFIX,fbsbx.com
-- DOMAIN-SUFFIX,fb.gg
-- DOMAIN-SUFFIX,oculus.com
-- DOMAIN-SUFFIX,friendfeed.com
-- DOMAIN-SUFFIX,fbmessenger.com
-- DOMAIN-SUFFIX,fb.watch
-- DOMAIN-SUFFIX,fburl.com
-- DOMAIN-SUFFIX,fbsbx.net
-- DOMAIN-SUFFIX,tfbnw.net
-- DOMAIN-SUFFIX,oculuscdn.com
-
 # GitHub
 - DOMAIN-SUFFIX,github.com
 - DOMAIN-SUFFIX,github.io
@@ -387,16 +396,6 @@ payload:
 - DOMAIN,github-production-repository-image-32fea6.s3.amazonaws.com
 - DOMAIN,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
 - DOMAIN,github-production-user-asset-6210df.s3.amazonaws.com
-
-# Instagram
-- DOMAIN-SUFFIX,cdninstagram.com
-- DOMAIN-SUFFIX,instagram.com
-- DOMAIN-SUFFIX,instagr.am
-- DOMAIN-SUFFIX,ig.me
-- DOMAIN-SUFFIX,igcdn.com
-- DOMAIN-SUFFIX,igtv.com
-- DOMAIN-SUFFIX,threads.net
-- DOMAIN-SUFFIX,threads.com
 
 # Pixiv
 - DOMAIN-SUFFIX,pixiv.net

@@ -93,7 +93,7 @@ payload:
 - DOMAIN-SUFFIX,claudeusercontent.com
 - DOMAIN,servd-anthropic-website.b-cdn.net
 
-# Meta AI
+# Meta
 - DOMAIN-SUFFIX,muse.ai
 - DOMAIN-SUFFIX,museai.com
 - DOMAIN-SUFFIX,meta.ai
@@ -109,8 +109,6 @@ payload:
 - DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
 - DOMAIN,meta-ohttp-config-prod.fastly-edge.com
 - DOMAIN-SUFFIX,llama.com
-
-# Facebook
 - DOMAIN-SUFFIX,facebook.com
 - DOMAIN-SUFFIX,fb.com
 - DOMAIN-SUFFIX,fb.me
@@ -129,8 +127,6 @@ payload:
 - DOMAIN-SUFFIX,fbsbx.net
 - DOMAIN-SUFFIX,tfbnw.net
 - DOMAIN-SUFFIX,oculuscdn.com
-
-# Instagram
 - DOMAIN-SUFFIX,cdninstagram.com
 - DOMAIN-SUFFIX,instagram.com
 - DOMAIN-SUFFIX,instagr.am
