@@ -14,15 +14,6 @@ payload:
 - DOMAIN-SUFFIX,gamestop.ca
 - DOMAIN-SUFFIX,officedepot.com
 
-# Gemini Notebook
-- DOMAIN-SUFFIX,notebook.google
-- DOMAIN-SUFFIX,notebook.google.com
-- DOMAIN-SUFFIX,notebooklm.google
-- DOMAIN-SUFFIX,notebooklm.google.com
-- DOMAIN-SUFFIX,labs-tailwind-pa.googleapis.com
-- DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
-- DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
-
 # AI General
 - DOMAIN-SUFFIX,api.statsig.com
 - DOMAIN-SUFFIX,static.cloudflareinsights.com
@@ -48,6 +39,15 @@ payload:
 - DOMAIN-SUFFIX,sift.com
 - DOMAIN-SUFFIX,siftscience.com
 - DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
+
+# Gemini Notebook
+- DOMAIN-SUFFIX,notebook.google
+- DOMAIN-SUFFIX,notebook.google.com
+- DOMAIN-SUFFIX,notebooklm.google
+- DOMAIN-SUFFIX,notebooklm.google.com
+- DOMAIN-SUFFIX,labs-tailwind-pa.googleapis.com
+- DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
+- DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
 
 # OpenAI
 - DOMAIN-SUFFIX,chat.com
