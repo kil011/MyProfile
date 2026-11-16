@@ -92,3 +92,18 @@ payload:
 - DOMAIN-SUFFIX,claudestudio.com
 - DOMAIN-SUFFIX,claudeusercontent.com
 - DOMAIN,servd-anthropic-website.b-cdn.net
+
+# PayPal
+- DOMAIN-SUFFIX,paypal.com
+- DOMAIN-SUFFIX,paypalobjects.com
+- DOMAIN-SUFFIX,paypal.me
+- DOMAIN-SUFFIX,paypalcredit.com
+- DOMAIN-SUFFIX,paypalcorp.com
+- DOMAIN-SUFFIX,paypalbeacon.com
+- DOMAIN-SUFFIX,pypl.com
+- DOMAIN-SUFFIX,venmo.com
+- DOMAIN,venmo.s3.amazonaws.com
+- DOMAIN-SUFFIX,braintreegateway.com
+- DOMAIN-SUFFIX,braintreepayments.com
+- DOMAIN-SUFFIX,getbraintree.com
+- DOMAIN-SUFFIX,xoom.com
