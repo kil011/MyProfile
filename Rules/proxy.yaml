@@ -28,8 +28,6 @@ payload:
 - DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
 - DOMAIN-SUFFIX,tello.com
 - DOMAIN-SUFFIX,t-mobile.com
-- DOMAIN-SUFFIX,paypal.com
-- DOMAIN-SUFFIX,paypalobjects.com
 - DOMAIN-SUFFIX,reddit.com
 - DOMAIN-SUFFIX,redditstatic.com
 - DOMAIN-SUFFIX,redditmedia.com
@@ -513,3 +511,18 @@ payload:
 - DOMAIN-SUFFIX,yammerusercontent.com
 - DOMAIN-SUFFIX,microsoftazuread-sso.com
 - DOMAIN-SUFFIX,microsoftonline.com
+
+# PayPal
+- DOMAIN-SUFFIX,paypal.com
+- DOMAIN-SUFFIX,paypalobjects.com
+- DOMAIN-SUFFIX,paypal.me
+- DOMAIN-SUFFIX,paypalcredit.com
+- DOMAIN-SUFFIX,paypalcorp.com
+- DOMAIN-SUFFIX,paypalbeacon.com
+- DOMAIN-SUFFIX,pypl.com
+- DOMAIN-SUFFIX,venmo.com
+- DOMAIN,venmo.s3.amazonaws.com
+- DOMAIN-SUFFIX,braintreegateway.com
+- DOMAIN-SUFFIX,braintreepayments.com
+- DOMAIN-SUFFIX,getbraintree.com
+- DOMAIN-SUFFIX,xoom.com
