@@ -346,6 +346,7 @@ payload:
 - DOMAIN,l-0005.l-msedge.net
 - DOMAIN,e122475.dscg.akamaiedge.net
 - DOMAIN,linkedin.sc.omtrdc.net
+
 # Blocked
 - DOMAIN-SUFFIX,archive.org
 - DOMAIN-SUFFIX,android.com
