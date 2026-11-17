@@ -15,12 +15,10 @@ payload:
 - DOMAIN-SUFFIX,officedepot.com
 
 # AI General
-- DOMAIN-SUFFIX,api.statsig.com
 - DOMAIN-SUFFIX,static.cloudflareinsights.com
 - DOMAIN-SUFFIX,algolia.net
 - DOMAIN-SUFFIX,auth0.com
 - DOMAIN-SUFFIX,arkoselabs.com
-- DOMAIN-SUFFIX,statsigapi.net
 - DOMAIN-SUFFIX,featuregates.org
 - DOMAIN-SUFFIX,intercom.io
 - DOMAIN-SUFFIX,intercomcdn.com
