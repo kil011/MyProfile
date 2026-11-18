@@ -6,8 +6,44 @@ payload:
 - DOMAIN-SUFFIX,segment.com
 - DOMAIN-SUFFIX,segment.io
 - DOMAIN-SUFFIX,static.cloudflareinsights.com
+- DOMAIN-SUFFIX,google-analytics.com
+- DOMAIN-SUFFIX,app-measurement.com
+
+# Session Replay
+- DOMAIN-SUFFIX,clarity.ms
+- DOMAIN-SUFFIX,hotjar.com
+- DOMAIN-SUFFIX,hotjar.io
+- DOMAIN-SUFFIX,fullstory.com
+- DOMAIN-SUFFIX,heapanalytics.com
+- DOMAIN-SUFFIX,logrocket.io
+- DOMAIN-SUFFIX,lr-ingest.io
 
 # Error Monitoring
 - DOMAIN-SUFFIX,sentry.io
 - DOMAIN-SUFFIX,datadoghq.com
 - DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
+- DOMAIN-SUFFIX,nr-data.net
+- DOMAIN-SUFFIX,bugsnag.com
+- DOMAIN-SUFFIX,crashlytics.com
+
+# Ads
+- DOMAIN-SUFFIX,googleadservices.com
+- DOMAIN-SUFFIX,googlesyndication.com
+- DOMAIN-SUFFIX,doubleclick.net
+- DOMAIN-SUFFIX,bat.bing.com
+- DOMAIN-SUFFIX,ads-twitter.com
+- DOMAIN-SUFFIX,criteo.com
+- DOMAIN-SUFFIX,taboola.com
+- DOMAIN-SUFFIX,outbrain.com
+- DOMAIN-SUFFIX,adnxs.com
+- DOMAIN-SUFFIX,scorecardresearch.com
+- DOMAIN-SUFFIX,quantserve.com
+
+# App Attribution
+- DOMAIN-SUFFIX,appsflyer.com
+- DOMAIN-SUFFIX,appsflyersdk.com
+- DOMAIN-SUFFIX,adjust.com
+
+# Telemetry
+- DOMAIN-SUFFIX,events.data.microsoft.com
+- DOMAIN-SUFFIX,vortex.data.microsoft.com
