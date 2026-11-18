@@ -12,6 +12,12 @@ payload:
 - DOMAIN-SUFFIX,chartbeat.com
 - DOMAIN-SUFFIX,chartbeat.net
 - DOMAIN-SUFFIX,mxpnl.com
+- DOMAIN-SUFFIX,plausible.io
+- DOMAIN-SUFFIX,matomo.cloud
+- DOMAIN-SUFFIX,kissmetrics.io
+- DOMAIN-SUFFIX,woopra.com
+- DOMAIN-SUFFIX,growingio.com
+- DOMAIN-SUFFIX,talkingdata.com
 
 # Session Replay
 - DOMAIN-SUFFIX,clarity.ms
@@ -31,6 +37,7 @@ payload:
 - DOMAIN-SUFFIX,lr-in.com
 - DOMAIN-SUFFIX,lr-in-prod.com
 - DOMAIN-SUFFIX,lr-intake.com
+- DOMAIN-SUFFIX,quantummetric.com
 
 # Error Monitoring
 - DOMAIN-SUFFIX,sentry.io
@@ -44,6 +51,8 @@ payload:
 - DOMAIN-SUFFIX,browser-intake-datadoghq.eu
 - DOMAIN-SUFFIX,datadoghq.eu
 - DOMAIN-SUFFIX,datadoghq-browser-agent.com
+- DOMAIN-SUFFIX,go-mpulse.net
+- DOMAIN-SUFFIX,speedcurve.com
 
 # Ads
 - DOMAIN-SUFFIX,googleadservices.com
@@ -73,11 +82,17 @@ payload:
 - DOMAIN,px.ads.linkedin.com
 - DOMAIN,ct.pinterest.com
 - DOMAIN,tr.snapchat.com
+- DOMAIN,analytics.yahoo.com
+- DOMAIN,ads.yahoo.com
+- DOMAIN,alb.reddit.com
+- DOMAIN,analytics-sg.tiktok.com
 
 # App Attribution
 - DOMAIN-SUFFIX,appsflyer.com
 - DOMAIN-SUFFIX,appsflyersdk.com
 - DOMAIN-SUFFIX,adjust.com
+- DOMAIN-SUFFIX,singular.net
+- DOMAIN-SUFFIX,kochava.com
 
 # Telemetry
 - DOMAIN-SUFFIX,events.data.microsoft.com
