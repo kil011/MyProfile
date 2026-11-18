@@ -1,0 +1,13 @@
+payload:
+# Analytics
+- DOMAIN-SUFFIX,amplitude.com
+- DOMAIN-SUFFIX,mixpanel.com
+- DOMAIN-SUFFIX,posthog.com
+- DOMAIN-SUFFIX,segment.com
+- DOMAIN-SUFFIX,segment.io
+- DOMAIN-SUFFIX,static.cloudflareinsights.com
+
+# Error Monitoring
+- DOMAIN-SUFFIX,sentry.io
+- DOMAIN-SUFFIX,datadoghq.com
+- DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
