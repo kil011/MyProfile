@@ -8,6 +8,9 @@ payload:
 - DOMAIN-SUFFIX,static.cloudflareinsights.com
 - DOMAIN-SUFFIX,google-analytics.com
 - DOMAIN-SUFFIX,app-measurement.com
+- DOMAIN-SUFFIX,statcounter.com
+- DOMAIN-SUFFIX,chartbeat.com
+- DOMAIN-SUFFIX,chartbeat.net
 
 # Session Replay
 - DOMAIN-SUFFIX,clarity.ms
@@ -17,6 +20,10 @@ payload:
 - DOMAIN-SUFFIX,heapanalytics.com
 - DOMAIN-SUFFIX,logrocket.io
 - DOMAIN-SUFFIX,lr-ingest.io
+- DOMAIN-SUFFIX,mouseflow.com
+- DOMAIN-SUFFIX,crazyegg.com
+- DOMAIN-SUFFIX,smartlook.com
+- DOMAIN-SUFFIX,inspectlet.com
 
 # Error Monitoring
 - DOMAIN-SUFFIX,sentry.io
@@ -38,6 +45,22 @@ payload:
 - DOMAIN-SUFFIX,adnxs.com
 - DOMAIN-SUFFIX,scorecardresearch.com
 - DOMAIN-SUFFIX,quantserve.com
+- DOMAIN-SUFFIX,adsrvr.org
+- DOMAIN-SUFFIX,rubiconproject.com
+- DOMAIN-SUFFIX,pubmatic.com
+- DOMAIN-SUFFIX,openx.net
+- DOMAIN-SUFFIX,casalemedia.com
+- DOMAIN-SUFFIX,moatads.com
+- DOMAIN-SUFFIX,adform.net
+- DOMAIN-SUFFIX,media.net
+- DOMAIN-SUFFIX,googletagservices.com
+- DOMAIN-SUFFIX,amazon-adsystem.com
+
+# Pixels
+- DOMAIN,px.ads.linkedin.com
+- DOMAIN,analytics.twitter.com
+- DOMAIN,ct.pinterest.com
+- DOMAIN,tr.snapchat.com
 
 # App Attribution
 - DOMAIN-SUFFIX,appsflyer.com
