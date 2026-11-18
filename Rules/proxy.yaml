@@ -339,7 +339,7 @@ payload:
 - DOMAIN,e122475.dscg.akamaiedge.net
 - DOMAIN,linkedin.sc.omtrdc.net
 
-# Blocked
+# Resources
 - DOMAIN-SUFFIX,android.com
 - DOMAIN-SUFFIX,appspot.com
 - DOMAIN-SUFFIX,adobedtm.com
