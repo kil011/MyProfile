@@ -5,12 +5,13 @@ payload:
 - DOMAIN-SUFFIX,posthog.com
 - DOMAIN-SUFFIX,segment.com
 - DOMAIN-SUFFIX,segment.io
-- DOMAIN-SUFFIX,static.cloudflareinsights.com
+- DOMAIN-SUFFIX,cloudflareinsights.com
 - DOMAIN-SUFFIX,google-analytics.com
 - DOMAIN-SUFFIX,app-measurement.com
 - DOMAIN-SUFFIX,statcounter.com
 - DOMAIN-SUFFIX,chartbeat.com
 - DOMAIN-SUFFIX,chartbeat.net
+- DOMAIN-SUFFIX,mxpnl.com
 
 # Session Replay
 - DOMAIN-SUFFIX,clarity.ms
@@ -24,6 +25,12 @@ payload:
 - DOMAIN-SUFFIX,crazyegg.com
 - DOMAIN-SUFFIX,smartlook.com
 - DOMAIN-SUFFIX,inspectlet.com
+- DOMAIN-SUFFIX,contentsquare.net
+- DOMAIN-SUFFIX,getsmartlook.com
+- DOMAIN-SUFFIX,lr-ingest.com
+- DOMAIN-SUFFIX,lr-in.com
+- DOMAIN-SUFFIX,lr-in-prod.com
+- DOMAIN-SUFFIX,lr-intake.com
 
 # Error Monitoring
 - DOMAIN-SUFFIX,sentry.io
@@ -32,6 +39,11 @@ payload:
 - DOMAIN-SUFFIX,nr-data.net
 - DOMAIN-SUFFIX,bugsnag.com
 - DOMAIN-SUFFIX,crashlytics.com
+- DOMAIN-SUFFIX,browser-intake-datadoghq.com
+- DOMAIN-SUFFIX,browser-intake-us3-datadoghq.com
+- DOMAIN-SUFFIX,browser-intake-datadoghq.eu
+- DOMAIN-SUFFIX,datadoghq.eu
+- DOMAIN-SUFFIX,datadoghq-browser-agent.com
 
 # Ads
 - DOMAIN-SUFFIX,googleadservices.com
@@ -50,15 +62,15 @@ payload:
 - DOMAIN-SUFFIX,pubmatic.com
 - DOMAIN-SUFFIX,openx.net
 - DOMAIN-SUFFIX,casalemedia.com
-- DOMAIN-SUFFIX,moatads.com
 - DOMAIN-SUFFIX,adform.net
 - DOMAIN-SUFFIX,media.net
 - DOMAIN-SUFFIX,googletagservices.com
 - DOMAIN-SUFFIX,amazon-adsystem.com
+- DOMAIN-SUFFIX,criteo.net
+- DOMAIN-SUFFIX,outbrainimg.com
 
 # Pixels
 - DOMAIN,px.ads.linkedin.com
-- DOMAIN,analytics.twitter.com
 - DOMAIN,ct.pinterest.com
 - DOMAIN,tr.snapchat.com
 
